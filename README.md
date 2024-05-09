@@ -23,6 +23,5 @@ clientes regitrados.
 
 ![image](https://github.com/Carlos199724/AppCRMITSystem/assets/73734421/95ac4630-348a-46b7-ac76-e0ba5f7b8c61)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+😎👋🏻SSaludos cordiales de mi parte para todos ustedes por este medio trato de dar a conocer mi experiencia como desarrollador FRONT END, con la finalidad de que les pueda servir 
+de ayudo y guía para sus futuros proyectos.🚀🤝🏻
